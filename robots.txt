@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://www.maksfix.pl/sitemap.xml
+
+# Block access to sensitive files
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.pdf$
+Disallow: /backup/
+
+# Allow important resources
+Allow: /logo.png
+Allow: /index.css
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.svg
+
+# Crawl delay (optional)
+Crawl-delay: 1

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://www.maksfix.pl/</loc>
+        <lastmod>2025-01-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://www.maksfix.pl/logo.png</image:loc>
+            <image:title>MaksFix - Logo</image:title>
+            <image:caption>Logo firmy MaksFix - Serwis Komputerowy Warszawa</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Company Pricing -->
+    <url>
+        <loc>https://www.maksfix.pl/cennik-firmy.html</loc>
+        <lastmod>2025-01-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Private Pricing -->
+    <url>
+        <loc>https://www.maksfix.pl/cennik-prywatne.html</loc>
+        <lastmod>2025-01-29</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Portfolio -->
+    <url>
+        <loc>https://www.maksfix.pl/zrealizowane-zlecenia.html</loc>
+        <lastmod>2025-01-29</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://www.maksfix.pl/realizacja1.jpg</image:loc>
+            <image:title>Czyszczenie laptopa HP</image:title>
+            <image:caption>Przykład realizacji - czyszczenie i modernizacja laptopa HP</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.maksfix.pl/realizacja2.jpg</image:loc>
+            <image:title>Złożenie komputera</image:title>
+            <image:caption>Przykład realizacji - składanie komputera stacjonarnego</image:caption>
+        </image:image>
+    </url>
+    
+</urlset>
